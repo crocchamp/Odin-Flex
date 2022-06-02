@@ -9,11 +9,17 @@ body {
 header {
     display: flex;
     background-color: #1f2937;
+    margin: 0px;
+    justify-content: space-between;
+    width: 1400px;
+    height: 70px;
 }
 
 .HEADER-LOGO {
     font-weight: 700;
     color: white;
+    
+    
 }
 
 .header-links {
