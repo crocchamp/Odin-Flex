@@ -7,10 +7,34 @@ header {
     display: flex;
 }
 
+.header-links {
+    display: flex;
+}
+
+.below-header {
+    display: flex;
+}
+
+.below-below-header {
+    display: flex;
+}
+
 main {
     display: flex;
 }
 
+.above-above-header {
+    display: flex;
+}
+
+.big-footer {
+    display: flex;
+}
+
 footer {
+    display: flex;
+}
+
+.below-footer {
     display: flex;
 }
