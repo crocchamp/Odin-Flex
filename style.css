@@ -23,6 +23,11 @@ main {
     display: flex;
 }
 
+img {
+    height: auto;
+    width: 400px;
+}
+
 .above-above-header {
     display: flex;
 }
