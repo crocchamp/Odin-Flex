@@ -13,4 +13,14 @@ header {
 
 .HEADER-LOGO {
     font-weight: 700;
+    color: white;
+}
+
+.header-links {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
