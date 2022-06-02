@@ -13,17 +13,20 @@ header {
     justify-content: space-between;
     width: 1400px;
     height: 70px;
+    align-items: center;
+    
 }
 
 .HEADER-LOGO {
     font-weight: 700;
     color: white;
-    
+    padding: 10px;
     
 }
 
 .header-links {
     display: flex;
+    gap: 5px;
 }
 
 a {
