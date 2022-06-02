@@ -1,6 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
 body {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    flex: 0 1 auto;
+
+
 }
 
 header {
@@ -43,3 +51,4 @@ footer {
 .below-footer {
     display: flex;
 }
+
