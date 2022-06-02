@@ -1,54 +1,16 @@
 html {
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 body {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    flex: 0 1 auto;
-
-
 }
 
 header {
     display: flex;
+    background-color: #1f2937;
 }
 
-.header-links {
-    display: flex;
+.HEADER-LOGO {
+    font-weight: 700;
 }
-
-.below-header {
-    display: flex;
-}
-
-.below-below-header {
-    display: flex;
-}
-
-main {
-    display: flex;
-}
-
-img {
-    height: auto;
-    width: 400px;
-}
-
-.above-above-header {
-    display: flex;
-}
-
-.big-footer {
-    display: flex;
-}
-
-footer {
-    display: flex;
-}
-
-.below-footer {
-    display: flex;
-}
-
