@@ -89,3 +89,9 @@ main {
 .giant-box {
     display: flex;
 }
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #3882f6;
+}
