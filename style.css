@@ -13,7 +13,7 @@ header {
     background-color: #1f2937;
     margin: 0px;
     justify-content: space-between;
-    width: 1500px;
+    width: 1300px;
     height: 100px;
     align-items: center;
     
@@ -41,7 +41,7 @@ a {
 .awesome {
 display: flex;
 background-color: #1f2937;
-width: 1500px;
+width: 1300px;
 height: 400px;
 justify-content: space-between;
 }
@@ -79,4 +79,13 @@ img {
     height: 250px;
     margin: 20px;
     margin-right: 100px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.giant-box {
+    display: flex;
 }
