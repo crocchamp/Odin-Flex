@@ -45,6 +45,12 @@ width: 1800px;
 height: 250px;
 }
 
+.awesome-column {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
 #awesome-big {
     font-size: 50px;
     font-weight: 800;
