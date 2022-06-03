@@ -45,6 +45,12 @@ width: 1800px;
 height: 250px;
 }
 
+#awesome-big {
+    font-size: 50px;
+    font-weight: 800;
+
+}
+
 .awesome p {
     color: white;
 }
