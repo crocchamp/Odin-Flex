@@ -1,5 +1,6 @@
 html {
     box-sizing: content-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -41,6 +42,7 @@ a {
 display: flex;
 background-color: #1f2937;
 width: 1800px;
+height: 250px;
 }
 
 .awesome p {
