@@ -87,9 +87,16 @@ main {
     width: 1300px;
 }
 
+.Random {
+    display: flex;
+    width: 1300px;
+    justify-content: center;
+}
+
 .giant-box {
     display: flex;
-    margin: 10px 200px;
+    margin: 10px 220px;
+    justify-items: center;
 }
 
 .box {
