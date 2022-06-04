@@ -84,14 +84,21 @@ img {
 main {
     display: flex;
     flex-direction: column;
+    width: 1300px;
 }
 
 .giant-box {
     display: flex;
+    margin: 10px 200px;
 }
 
 .box {
     width: 150px;
     height: 150px;
     border: 2px solid #3882f6;
+    border-radius: 10px;
+}
+
+.Quote {
+    background: color #e5e7eb;
 }
