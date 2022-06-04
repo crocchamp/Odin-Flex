@@ -93,10 +93,15 @@ main {
     justify-content: center;
 }
 
+.Random p {
+    font-size: 36px;
+    font-weight: 800;
+}
+
 .giant-box {
     display: flex;
-    margin: 10px 220px;
-    justify-items: center;
+    margin: 10px 280px;
+    gap: 60px;
 }
 
 .box {
