@@ -113,4 +113,15 @@ main {
 
 .Quote {
     background-color: #e5e7eb;
+    width: 1300px;
+}
+
+blockquote {
+    font-size:36px;;
+}
+
+cite {
+    font-size: 20px;
+    color: black;
+    font-weight: 1000;
 }
