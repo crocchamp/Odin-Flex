@@ -145,6 +145,8 @@ cite {
     display: flex;
     border-radius: 10px;
     justify-content: center;
+    padding: 15px;
+    width: 800px;
 }
 
 .Big-div {
@@ -152,6 +154,15 @@ cite {
     flex-direction: column;
 }
 
+.Call {
+    font-size: 25px;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+
+.Sign-Up-For {
+    margin-top: 0px;
+}
 
 #Gay {
     border: 1px solid white;
