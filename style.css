@@ -144,9 +144,10 @@ cite {
     height: 120px;
     display: flex;
     border-radius: 10px;
-    justify-content: center;
-    padding: 15px;
+    justify-content: space-between;
     width: 800px;
+    padding: 10px 75px;
+    align-items: center;
 }
 
 .Big-div {
@@ -166,5 +167,5 @@ cite {
 
 #Gay {
     border: 1px solid white;
-    margin-top: 50px;
+    margin-bottom: 5px;
 }
