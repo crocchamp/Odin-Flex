@@ -134,6 +134,7 @@ cite {
 .Call-to-Action {
     padding: 75px;
     display: flex;
+    justify-content: center;
 
 }
 
@@ -143,7 +144,14 @@ cite {
     height: 120px;
     display: flex;
     border-radius: 10px;
+    justify-content: center;
 }
+
+.Big-div {
+    display: flex;
+    flex-direction: column;
+}
+
 
 #Gay {
     border: 1px solid white;
